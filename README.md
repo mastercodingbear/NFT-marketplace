@@ -1,4 +1,4 @@
-# nuxt-typescript
+# NFT-marketplace
 
 ## Build Setup
 
